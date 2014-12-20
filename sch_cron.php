@@ -344,8 +344,8 @@ function sendmsg($recp, $msg){
 	
 	$data= array(
 "Type"=> "sendparam", 
-"Username" => "abuango",
-"Password" => "h4xx22live",
+"Username" => "SMS-API-USER",
+"Password" => "*******",
 "live" => "true",
 "numto" => $contacts,
 "data1" => $msg,
